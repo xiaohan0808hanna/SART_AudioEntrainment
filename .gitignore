@@ -9,10 +9,7 @@ stimuli/mp3_source/
 archive/
 
 # Word documents, PDFs and HTML reports (kept in Box)
-*.docx
 *.pdf
-SART 预实验结果.html
-docs/RESEARCHER_GUIDE.md
 
 # System and editor files
 .DS_Store
