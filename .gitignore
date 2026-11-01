@@ -1,0 +1,29 @@
+# Participant data and anything derived from it (kept in Box: study/Data)
+data/
+analysis/output/
+
+# Original MP3 downloads of the recordings
+stimuli/mp3_source/
+
+# Old program versions and the full-length (untrimmed) sound files
+archive/
+
+# Word documents, PDFs and HTML reports (kept in Box)
+*.docx
+*.pdf
+SART 预实验结果.html
+docs/RESEARCHER_GUIDE.md
+
+# System and editor files
+.DS_Store
+__pycache__/
+*.pyc
+~$*
+.~*
+
+# Report builder: contains participant demographics and pilot results
+analysis/build_pilot_report_docx.py
+
+# Not shared for now: analysis scripts, documentation scripts, images and participant instructions
+analysis/
+docs/
